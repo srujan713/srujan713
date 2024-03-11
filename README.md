@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!    My name is Srujan Ranpise</h2>
+<h2 align="center">Heyy 👋!    My name is Srujan Ranpise</h2>
 
 ###
 
@@ -9,11 +9,13 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="181" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdubzUzNHN6dmtwcXhxZ25tbTRhMnRpazZ4djZpM3dydXVtOGNodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/amrNGnZUeWhZC/giphy.gif"  />
+<div align="center">
+  <img height="219" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BnMDZqejhzMnh4OHloZDFsMnJ5ZzVsbzJwYXRrY2FyMnUyZmpyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubLIcHvitTa36/giphy.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -59,11 +61,6 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
 <h3 align="left">About Me ☁️:-</h3>
 
 ###
@@ -97,5 +94,11 @@
 <br clear="both">
 
 <p align="center">✨Phone : +91 7588357067<br>✨ Email :  srujan0701@gmail.com</p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/srujan713/count.svg?"  />
+</div>
 
 ###
