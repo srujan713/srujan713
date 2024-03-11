@@ -83,7 +83,7 @@
 
 ###
 
-<p align="center">✨Bingewatching Movies<br>✨Badminton ( Neighbourhood Champion XD)<br>✨Food</p>
+<p align="center">✨Food<br>✨Bingewatching Movies<br>✨Badminton ( Neighbourhood Champion XD)</p>
 
 ###
 
@@ -93,7 +93,7 @@
 
 <br clear="both">
 
-<p align="center">✨Phone : +91 7588357067<br>✨ Email :  srujan0701@gmail.com</p>
+<p align="center">✨Phone : +91 7588357067<br>✨ Email :  srujan0701@gmail.com<br>✨Resume : https://bit.ly/SrujansResume</p>
 
 ###
 
